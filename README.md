@@ -1,2 +1,2 @@
 # DS-ALGO
-Data Structures and Algorithms Implementation
+Implementation of popular Data Structures and Algorithms in Python and C++.
